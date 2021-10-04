@@ -164,5 +164,3 @@ while not big_loop:
     break
     
   clear()
-
-I did a lot differently. it was a maze but it could run
